@@ -9,7 +9,7 @@ dependencies {
     implementation project(':open-metadata-implementation:access-services:stewardship-action:stewardship-action-api')
     implementation project(':open-metadata-implementation:governance-servers:stewardship-engine-services:stewardship-engine-services-api')
     implementation project(':open-metadata-implementation:governance-servers:stewardship-engine-services:stewardship-engine-services-server')
-    implementation 'io.swagger.core.v3:swagger-annotations:2.1.3'
+    implementation 'io.swagger.core.v3:swagger-annotations:2.1.10'
 
 }
 
